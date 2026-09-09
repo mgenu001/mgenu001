@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## My favorite programming languages are C++ and Java!
+## Have a good day! :)
 <!--
 **mgenu001/mgenu001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
